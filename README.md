@@ -10,8 +10,9 @@ These are my notebooks in competitions: Kaggle, SIGNATE, Nishika
 ## 各コンペについて
 - 2022_05_spaceship_titanic
   - URL: https://www.kaggle.com/competitions/spaceship-titanic
-  - データ: 
-  - 備考: 
+  - データ:
+    - aa
+  - 備考: 初めてのコンペでチュートリアルで有名なタイタニックの少し難しいバージョン
 - 2022_07_StudentCup2022
   - URL: 
   - データ: 
