@@ -1,2 +1,2 @@
 # Competition
-This is my competition: Kaggle, SIGNATE, Nishika, etc.., notebook.
+These are my cords in competition: Kaggle, SIGNATE, Nishika, etc.., notebook.
