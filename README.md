@@ -31,7 +31,7 @@ These are my notebooks in competitions: Kaggle, SIGNATE, Nishika
 - 2022_09_MUFGDataScienceChampionShip
   - URL: https://signate.jp/competitions/754
   - データ: 非構造化データ(自然言語処理)、約110万レコード・28カラム
-  - 結果: 107位/147人(提出ファイル間違え、debertaの場合は27位)
+  - 結果: 107位/147人(提出ファイル間違え、debertaの場合は27位(銀メダル))
   - 備考: ソロ。
 - 2022_09_mansion
   - URL: https://www.nishika.com/competitions/mansion_summer_2022/summary
