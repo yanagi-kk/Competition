@@ -9,7 +9,7 @@ These are my notebooks in competitions: Kaggle, SIGNATE, Nishika
  
 ## 各コンペについて
 - 2022_05_spaceship_titanic
--  aa
+ -  aa
 - 2022_07_StudentCup2022
 - 2022_07_Yasai 
 - 2022_09_MUFGDataScienceChampionShip
