@@ -1,5 +1,5 @@
 # Competition
-These are my notebooks used in the data analysis competition
+These are my notebooks used in the data analysis competitions
 
 ## 簡単な説明
 - Kaggle, SIGNATE, Nishikaのコンテスト参加時に提出したソースコードを置きます。
